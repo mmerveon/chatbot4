@@ -7,4 +7,4 @@ https://www.pycodemates.com/2021/11/build-a-AI-chatbot-using-python-and-deep-lea
 
 Met deze chatbot kan je een gesprek voeren over te laat op school of gepest worden. 
 
-Youtube link: 
+Youtube link: https://youtu.be/CuxnDzk8Si8 
